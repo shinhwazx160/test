@@ -1,5 +1,5 @@
 organization in ThisBuild := "org.wex"
-version in ThisBuild := "1.0-SNAPSHOT"
+version in ThisBuild := "1.1-SNAPSHOT"
 
 scalaVersion in ThisBuild := "2.11.8"
 
