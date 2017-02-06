@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/monitorApi.iml" filepath="$PROJECT_DIR$/.idea/modules/monitorApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/monitorApi-build.iml" filepath="$PROJECT_DIR$/.idea/modules/monitorApi-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/monitorImpl.iml" filepath="$PROJECT_DIR$/.idea/modules/monitorImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/monitorImpl-build.iml" filepath="$PROJECT_DIR$/.idea/modules/monitorImpl-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root.iml" filepath="$PROJECT_DIR$/.idea/modules/root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root-build.iml" filepath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
+    </modules>
+  </component>
+</project>
